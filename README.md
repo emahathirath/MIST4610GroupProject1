@@ -9,3 +9,6 @@ Team 6
 3. Tarita Jakobs [@taritajakobs](https://github.com/TaritaJakobs/MIST4610GroupProject1Zoo)
 4. Mia Townsend [@miatownsend](https://github.com/MiaGTownsend/MIST4610-GroupProject1-Zoo)
 5. Krysta Schwab [@krystaschwab](https://github.com/krystaschwab/MIST4610-GroupProject1)
+
+## Data Dictionary
+
