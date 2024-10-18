@@ -1,4 +1,4 @@
-# MIST4610GroupProject1
+# MIST4610 Group Project 1
 
 ## Team Name:
 
@@ -123,6 +123,8 @@ This query would be important to the zoo management, specifically the sales depa
 
 ## Database Information
 Name of the database: ns_4610Fa24Group6
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
 
 ## Slide Presentation 
 
