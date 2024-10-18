@@ -124,5 +124,12 @@ This query would be important to the zoo management, specifically the sales depa
 ## Database Information
 Name of the database: ns_4610Fa24Group6
 
+## Slide Presentation 
+
+[Presentation](https://docs.google.com/presentation/d/1ffQU4eKNTn2uIhKbh5l6qyVmpCS3tuCLsDjraL5XGHQ/edit?usp=sharing)
+
+
+
+
 
 
